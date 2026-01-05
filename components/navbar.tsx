@@ -69,6 +69,7 @@ export function Navbar() {
     { href: "/deliverables", label: "Deliverables", icon: FileText },
     { href: "/board", label: "Board", icon: Kanban },
     { href: "/my-queue", label: "My Queue", icon: ListTodo },
+    { href: "/database", label: "Database", icon: FileText },
   ]
 
   return (
